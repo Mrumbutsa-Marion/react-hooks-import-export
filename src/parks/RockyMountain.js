@@ -1,3 +1,4 @@
+import { trees, wildlife} from './trees';
 const trees = "Aspen and Pine";
 
 function wildlife() {
